@@ -1,6 +1,6 @@
 findspark
 pyspark
 frozendict
-ipython==7.5.0
+ipython==7.16.3
 dateutil
 pyspark
